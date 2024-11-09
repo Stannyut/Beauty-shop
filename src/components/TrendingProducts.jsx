@@ -62,8 +62,8 @@ export default function NewArrivals() {
   return (
     <section className="py-16 bg-[#ffe2c7]">
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-3xl md:text-3xl font-bold mb-10 text-center text-gray-800">
-          Trending Beauty Products
+        <h2 className="text-2xl md:text-2xl font-bold mb-10 text-center text-gray-800">
+          Trending Products
         </h2>
         <Swiper
           modules={[Navigation]}
